@@ -1,2 +1,12 @@
 las dimenciones van de xs para dispositivos movil ms md lg xl 
 van de mayor a menor 
+
+para pode desaparecer una columna se pene la opcion d-none
+
+se sigue el modelo firts mobile el efecto de una clase va afectar a los mas grandes hasta que se diga lo contrario
+
+para aliniar los elementos tenemos que poner en la clase float-left float-right
+
+para que dos elemetos no choquen cuando hay varios elementos se tiene que poner clearflix
+
+para alinear todos los elemtentos en un row podemos utilizar justify-content-{start center end between}
